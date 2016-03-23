@@ -8,7 +8,8 @@ Some information about me!
 
 ### More Information
 
-![asl](http://www.sherv.net/cm/page/hidden/msn/asl.gif)</br>
+![asl](http://www.sherv.net/cm/page/hidden/msn/asl.gif)  
+
 24/m/aus
 
 ### Contact me
