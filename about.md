@@ -8,14 +8,15 @@ Some information about me!
 
 ### More Information
 
-![asl](http://www.sherv.net/cm/page/hidden/msn/asl.gif)
+![asl](http://www.sherv.net/cm/page/hidden/msn/asl.gif)</br>
 24/m/aus
 
 ### Contact me
 
-<form action="http://formspree.io/jakesbits@gmail.com">
-  <input type="email" name="_replyto">E-mail</input>
-  <input type="text" name="_gotcha" style="display:none"></input>
-  <textarea name="body">Text</textarea>
-  <input type="submit" value="Send">
-</form>
+<form action="https://formspree.io/jakesbits@gmail.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="submit" value="Send">
+</form> 
