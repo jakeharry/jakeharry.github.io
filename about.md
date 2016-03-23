@@ -16,8 +16,9 @@ Some information about me!
 
 <form action="https://formspree.io/jakesbits@gmail.com"
       method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
+    Name:<input type="text" name="name">
+    E-mail Address:<input type="email" name="_replyto">
+    Message:<input type="textarea" name="content">
     <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Send">
 </form> 
