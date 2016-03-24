@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (asscf) a simple static contact form
+title: (formspree.io) a simple static contact form
 ---
 
 Who would've thought contacting me is so easy?
