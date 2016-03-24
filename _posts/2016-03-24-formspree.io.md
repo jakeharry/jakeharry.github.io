@@ -20,7 +20,7 @@ The basic example that formspree provide is below
        <input type="submit" value="Send">
     </form> 
 
-It's literally THAT simple. Swap in your@email.com with your e-mail of choice and the form is straight away ready to go. Upon the first submit to your form, you will get an e-mail to confirm you wish to receive e-mails from the formspring you've created. Once you confirm this it's 100% operational. Fascinating.
+It's literally THAT simple. Swap in your@email.com with your e-mail of choice and the form is straight away ready to go. Upon the first submit to your form, you will get an e-mail to confirm you wish to receive e-mails from the formspree you've created. Once you confirm this it's 100% operational. Fascinating.
 
 "But hang on Jake" you say. "You said that your quest involved finding a contact form which has sort of spam filtering? I cannot see any form of spam filtering in the example above. What gives?!"
 Slow down young padiwan, for you are yet to discover 'Advanced Features' of formspree.
@@ -29,7 +29,7 @@ _gotcha
   <input type="text" name="_gotcha" style="display:none" />
 how clever? You can include an input with the name="_gotcha" which, if filled out will not send the e-mail via formspree. You'll notice the style="display:none" which hides the form from human eyes, so, all human entries should not have this field filled in.
 
-There are many custom attributes for the formspree form and, as you can see below my final copy is far more advanced than the original example that formspring provide.
+There are many custom attributes for the formspree form and, as you can see below my final copy is far more advanced than the original example that formspree provide.
 
     <form action="//formspree.io/jakesbits@gmail.com" method="POST">
         <fieldset>
