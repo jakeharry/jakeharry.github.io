@@ -1,5 +1,6 @@
 ---
-published: false
+layout:post
+published: true
 ---
 ## No Aux Cable? (not what you are thinking)
  
