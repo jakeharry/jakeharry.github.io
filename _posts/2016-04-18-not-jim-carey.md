@@ -1,6 +1,7 @@
 ---
 layout:post
 published: true
+title: cableguy
 ---
 ## No Aux Cable? (not what you are thinking)
  
