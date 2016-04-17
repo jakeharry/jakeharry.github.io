@@ -35,7 +35,7 @@ it.
 Nailed it. there's just something beautiful and endearing about being the guy you can trust to get the job done.
  
 ## are we in control?
-on point: https://www.youtube.com/embed/7Pq-S557XQU Are we losing sight(site) of the primary focus of technology? Should technology be serving you, instead of the other way around? Do we need to look forward in to the future of #humanity and lay the ground rules now to avoid being eraddicated as a race in 20,000 years? Is it laughable to think that the inhabitants of the universe would even use time references such as Year:20,000 structure?
+on point: https://www.youtube.com/embed/7Pq-S557XQU Are we losing sight(site) of the primary focus of technology? Should technology be serving you, instead of the other way around? Do we need to look forward in to the future of #humanity and lay the ground rules now to avoid being eraddicated as a race in 20,000 years? Is it laughable to think that the inhabitants of the universe would even use time references such as Year: 20,000 structure?
 
 Enough curveball topics for one night, I'll leave you with this.
 What if we were to pull out and reassign all internet infrastructure focus to be on the future of wireless being THE universal standard. That is, it's not just about leaving one or two major cooperations to monopolize the technology for a telecommunications platform, we must use the technology in a way that links everything together is an absolutely harmonic environment. Think of proper future social platforms like VR environment streaming, it's not until we ask ourselves of these fantastys, that we [realise](http://www.internetlivestats.com/internet-users/) we're already on an out of control spiral with no direction. 
@@ -43,4 +43,4 @@ What if we were to pull out and reassign all internet infrastructure focus to be
  I smell the need to have future rants about things such as wealth distribution and really explore some VR possibiltiies. REAL soon. RemindMe!  (haha wishful thinking, yo reddit!)
  
 Anyway,
-human:jake signing off.
+human: jake signing off.
